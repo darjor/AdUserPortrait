@@ -1,12 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/scala/com/tags/APP.scala" line="11" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/com/location/APP.scala" line="11" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41dedced-35f2-4cd2-9105-33286b2caa0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/test1.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/test2.scala" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/location/AppName.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/tags/DeviceTags.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/tags/KwordsTags.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/tags/LocationTags.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/APP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/location/APP.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/AppName.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/BusinessTag.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/tags/BusinessTag.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/ChannelTags.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/tags/ChannelTags.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/TagsAPP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/tags/APPTags.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/TagsAd.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/tags/AdTags.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/tags/TagsContext.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/tags/ContextTags.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/util/tagutil/TagsUtil.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/util/tagutil/TagsUtil.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/channel/Channel$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/channel/Channel$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/channel/Channel$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/channel/Channel$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/channel/Channel$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/channel/Channel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/media/Media$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/media/Media.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$$typecreator2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/APP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName$$anonfun$4$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/AppName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/BusinessTag$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tags/BusinessTag$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsAd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsAd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsContext$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsContext$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsContext$$typecreator2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsContext$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tags/TagsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Facility$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Facility$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Facility$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Facility$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Facility$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Facility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Network$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Network$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Network$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Network$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Network$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Operation$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/OperationSystem$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/OperationSystem$$anonfun$main$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/OperationSystem$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/OperationSystem$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/OperationSystem$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/terminal/OperationSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/tagutil/TagsUtil$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/util/tagutil/TagsUtil$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/tagutil/TagsUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/util/tagutil/TagsUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$$anonfun$main$2$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$$anonfun$main$2$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,32 +113,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/AppName.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/etl/Log2Parquet.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/ContextTags.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="448">
+              <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
               <folding>
-                <element signature="e#17#58#0" expanded="true" />
+                <element signature="e#18#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/tagutil/AmapUtil.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" column="5" selection-start-line="38" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -68,15 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/com/etl/Log2Parquet.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/util/SchemaUtil.scala" />
-        <option value="$PROJECT_DIR$/src/main/resources/application" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/location/AppName.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/location/Qudao.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/location/SUM4.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/location/KeyWord.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/util/Tag.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/util/TagsUtil.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/tags/TagsAd.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/HTTPUtil.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/test.scala" />
@@ -87,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/tags/business/BusinessTag.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/tags/app/AppName.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/tagutil/Tag.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/util/tagutil/TagsUtil.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/tagutil/HTTPUtil.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/location/RptUtil.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/terminal.scala" />
@@ -110,15 +174,25 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/tags/business/TagsContext.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/tags/business/TagsAd.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/tags/AppName.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/tags/BusinessTag.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/tagutil/JedisConnectionPool.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/tags/TagsContext.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/util/tagutil/AmapUtil.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/tags/ChannelTags.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/tags/TagsAPP.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/test2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/test1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/location/Media.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/location/Channel.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/BusinessTag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/location/AppName.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/TagsAPP.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/TagsContext.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/APPTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/ChannelTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/KwordsTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/LocationTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/util/tagutil/TagsUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/DeviceTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/tags/ContextTags.scala" />
       </list>
     </option>
   </component>
@@ -135,11 +209,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="y" value="26" />
-    <option name="width" value="1330" />
-    <option name="height" value="999" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -170,6 +243,13 @@
               <item name="adUserPortrait" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adUserPortrait" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adUserPortrait" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -179,6 +259,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adUserPortrait" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adUserPortrait" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="location" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="adUserPortrait" type="b2602c69:ProjectViewProjectNode" />
@@ -227,6 +316,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.43776223" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="settings.editor.splitter.proportion" value="0.29845423" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
@@ -249,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.TagsContext">
     <configuration name="APP" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.etl.Log2Parquet" />
       <module name="adUserPortrait" />
@@ -259,12 +349,12 @@
       </method>
     </configuration>
     <configuration name="AppName" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.tags.AppName" />
+      <option name="MAIN_CLASS_NAME" value="com.location.AppName" />
       <module name="adUserPortrait" />
       <option name="PROGRAM_PARAMETERS" value="F:\out F:\资料\千锋资料\BigData-23\spark\项目\firstweek\项目day01\Spark用户画像分析\app_dict.txt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tags.*" />
+          <option name="PATTERN" value="com.location.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +377,12 @@
       </method>
     </configuration>
     <configuration name="TagsContext" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.tags.TagsContext" />
+      <option name="MAIN_CLASS_NAME" value="com.tags.ContextTags" />
       <module name="adUserPortrait" />
-      <option name="PROGRAM_PARAMETERS" value="F:\out" />
+      <option name="PROGRAM_PARAMETERS" value="F:\out F:\资料\千锋资料\BigData-23\spark\项目\firstweek\项目day01\Spark用户画像分析\app_dict.txt F:\资料\千锋资料\BigData-23\spark\项目\firstweek\项目day01\Spark用户画像分析\stopwords.txt 20190923" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tags.*" />
+          <option name="PATTERN" value="com.location.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,36 +398,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="adUserPortrait" />
-      <option name="PROGRAM_PARAMETERS" value="F:\资料\千锋资料\BigData-23\spark\项目\项目day01\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log F:\out" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="test2" />
-      <module name="adUserPortrait" />
-      <option name="PROGRAM_PARAMETERS" value="F:\资料\千锋资料\BigData-23\spark\项目\项目day01\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log F:\out" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.APP" />
       <item itemvalue="Application.Channl" />
       <item itemvalue="Application.AppName" />
       <item itemvalue="Application.TagsContext" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.AppName" />
         <item itemvalue="Application.TagsContext" />
+        <item itemvalue="Application.AppName" />
         <item itemvalue="Application.Channl" />
       </list>
     </recent_temporary>
@@ -355,7 +425,7 @@
       <workItem from="1568727683690" duration="23125000" />
       <workItem from="1568795838988" duration="25256000" />
       <workItem from="1568878620296" duration="45120000" />
-      <workItem from="1569224089856" duration="1763000" />
+      <workItem from="1569224089856" duration="11899000" />
     </task>
     <task id="LOCAL-00001" summary="用户画像">
       <created>1569227760695</created>
@@ -364,18 +434,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569227760695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="用户画像">
+      <created>1569228253566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569228253566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95264000" />
+    <option name="totallyTimeSpent" value="105400000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="477" y="21" width="1064" height="799" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20874752" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834436" visible="true" weight="0.19436997" />
+      <window_info id="Structure" order="1" sideWeight="0.50165564" side_tool="true" visible="true" weight="0.19436997" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -383,7 +460,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22014388" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21963824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +471,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.24748202" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.22351421" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,39 +525,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="用户画像" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/SUM4.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/Qudao.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/Tag.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/KeyWord.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/TagsUtil.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/JedisConnectionPool.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/AmapUtil.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/AppName.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/business/BusinessTag.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/tagutil/Tag.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/tagutil/TagsUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -540,7 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/terminal/Operation.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/terminal/Operation.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="40" column="65" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
@@ -561,7 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/terminal/Network.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/terminal/Network.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="48" column="46" lean-forward="true" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
@@ -571,7 +624,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/terminal/Facility.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/terminal/Facility.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="53" column="7" lean-forward="true" selection-start-line="47" selection-start-column="6" selection-end-line="53" selection-end-column="7" />
@@ -581,7 +634,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/terminal/OperationSystem.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/terminal/OperationSystem.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
@@ -627,60 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/TagsAd.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="e#18#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/APP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-814">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/TagsContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/BusinessTag.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#18#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/TagsAPP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="6" column="2" selection-start-line="6" selection-end-line="17" selection-end-column="3" />
-          <folding>
-            <element signature="e#18#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/ChannelTags.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="2" selection-start-line="5" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#18#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/AppName.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -717,10 +716,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/etl/Log2Parquet.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="396">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="e#17#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/Channel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/Media.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/AppName.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/location/APP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/AdTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/APPTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/BusinessTag.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="e#18#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/ChannelTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/KwordsTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/LocationTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/util/tagutil/TagsUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="32" selection-start-line="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/DeviceTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/tags/ContextTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
+          <folding>
+            <element signature="e#18#58#0" expanded="true" />
           </folding>
         </state>
       </provider>

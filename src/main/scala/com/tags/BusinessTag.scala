@@ -45,7 +45,7 @@ object BusinessTag extends Tag{
       //去高德请求
       business = AmapUtil.getBusinessFromAmap(long,lat)
       //将商圈信息插入到数据库
-      if (business != null && business.length >= 0){
+      if (business != null && business.length > 0){
         redis_insterBusiness(geohash,business)
       }
     }
