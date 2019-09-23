@@ -1,9 +1,9 @@
-package com.terminal
+package com.location
 
 import com.util.terminalutil.TerminalUtil
 import org.apache.spark.sql.SparkSession
 
-object OperationSystem {
+object Media {
   def main(args: Array[String]): Unit = {
     if(args.length != 2){
       println("目录不正确")
@@ -45,12 +45,12 @@ object OperationSystem {
       //所有指标
       val allList = reqList ++ cliList ++ adList
 
-      val client = row.getAs[Int]("client")
+      val mediatype = row.getAs[Int]("mediatype")
 
-      client match {
-        case 1 => (("android"),allList)
-        case 2 => (("ios"),allList)
-        case 3 => (("wp"),allList)
+      mediatype match {
+        case 0 => (("爱奇艺"),allList)
+        case 1 => (("腾讯新闻"),allList)
+        case 2 => (("PPTV"),allList)
         case _ => (("其它"),allList)
       }
 

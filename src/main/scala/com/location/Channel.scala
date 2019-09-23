@@ -1,9 +1,9 @@
-package com.terminal
+package com.location
 
 import com.util.terminalutil.TerminalUtil
 import org.apache.spark.sql.SparkSession
 
-object Facility {
+object Channel {
   def main(args: Array[String]): Unit = {
     if(args.length != 2){
       println("目录不正确")
@@ -14,7 +14,7 @@ object Facility {
 
     val spark = SparkSession.builder()
       .appName("facility")
-      .master("local[*]")
+      .master("local")
       .config("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
       .getOrCreate()
 
@@ -45,13 +45,7 @@ object Facility {
       //所有指标
       val allList = reqList ++ cliList ++ adList
 
-      val devicetype = row.getAs[Int]("devicetype")
-
-      devicetype match {
-        case 1 => (("手机"),allList)
-        case 2 => (("平板"),allList)
-        case _ => (("其他"),allList)
-      }
+      ((row.getAs[String]("channelid")),allList)
 
     }).reduceByKey((list1,list2)=>{
       list1.zip(list2).map(t=>t._1 + t._2)

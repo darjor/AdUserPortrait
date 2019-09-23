@@ -1,9 +1,9 @@
-package com.channel
+package com.location.terminal
 
 import com.util.terminalutil.TerminalUtil
 import org.apache.spark.sql.SparkSession
 
-object Channel {
+object OperationSystem {
   def main(args: Array[String]): Unit = {
     if(args.length != 2){
       println("目录不正确")
@@ -45,7 +45,14 @@ object Channel {
       //所有指标
       val allList = reqList ++ cliList ++ adList
 
-      ((row.getAs[String]("channelid")),allList)
+      val client = row.getAs[Int]("client")
+
+      client match {
+        case 1 => (("android"),allList)
+        case 2 => (("ios"),allList)
+        case 3 => (("wp"),allList)
+        case _ => (("其它"),allList)
+      }
 
     }).reduceByKey((list1,list2)=>{
       list1.zip(list2).map(t=>t._1 + t._2)

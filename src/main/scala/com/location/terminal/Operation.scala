@@ -1,4 +1,4 @@
-package com.terminal
+package com.location.terminal
 
 import com.util.terminalutil.TerminalUtil
 import org.apache.spark.sql.SparkSession

@@ -1,9 +1,9 @@
-package com.media
+package com.location.terminal
 
 import com.util.terminalutil.TerminalUtil
 import org.apache.spark.sql.SparkSession
 
-object Media {
+object Facility {
   def main(args: Array[String]): Unit = {
     if(args.length != 2){
       println("目录不正确")
@@ -14,7 +14,7 @@ object Media {
 
     val spark = SparkSession.builder()
       .appName("facility")
-      .master("local")
+      .master("local[*]")
       .config("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
       .getOrCreate()
 
@@ -45,13 +45,12 @@ object Media {
       //所有指标
       val allList = reqList ++ cliList ++ adList
 
-      val mediatype = row.getAs[Int]("mediatype")
+      val devicetype = row.getAs[Int]("devicetype")
 
-      mediatype match {
-        case 0 => (("爱奇艺"),allList)
-        case 1 => (("腾讯新闻"),allList)
-        case 2 => (("PPTV"),allList)
-        case _ => (("其它"),allList)
+      devicetype match {
+        case 1 => (("手机"),allList)
+        case 2 => (("平板"),allList)
+        case _ => (("其他"),allList)
       }
 
     }).reduceByKey((list1,list2)=>{
